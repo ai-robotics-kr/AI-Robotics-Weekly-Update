@@ -5,3 +5,4 @@
 ## 2023년 공유 리스트
 * [Week1](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/1)
 * [Week2](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/2)
+* [Week3](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/3)
