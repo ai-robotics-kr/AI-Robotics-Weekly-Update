@@ -7,3 +7,6 @@
 * [Week2](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/2)
 * [Week3](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/3)
 * [Week4](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/6)
+* [Week5](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/7)
+* [Week6](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/8)
+* [Week7](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/9)
