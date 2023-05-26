@@ -10,3 +10,4 @@
 * [Week5](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/7) AI & SEMICONDUCTOR CHIP PRODUCTION 의 변화
 * [Week6](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/8) 트랜스포머(Transformer) 알고리즘
 * [Week7](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/9) 적외선 카메라와 멀티스펙트럴 센서
+* [Week8](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/10) 데이터 기반 동역학 모델 및 강화학습
