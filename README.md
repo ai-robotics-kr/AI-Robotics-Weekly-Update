@@ -14,3 +14,4 @@
 * [Week9](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/11) 과거, 현재, 그리고 미래의 AI
 * [Week10](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/12) ICRA 2023으로 본 Grasping & Manipulation 분야 최신 연구 트렌드
 * [Week11](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/13) Hybrid Planning
+* [Week12](https://github.com/ai-robotics-kr/AI-Robotics-Weekly-Update/issues/14) contact-implicit trajectory optimization
